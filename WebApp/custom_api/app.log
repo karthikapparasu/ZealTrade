@@ -1,0 +1,62 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 400 214
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 628
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 628
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 628
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 628
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//placeOrder/executePlaceOrder HTTP/1.1" 200 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//placeOrder/executePlaceOrder HTTP/1.1" 200 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 629
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 401 12
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 628
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//placeOrder/executePlaceOrder HTTP/1.1" 200 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//placeOrder/executePlaceOrder HTTP/1.1" 200 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 629
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 628
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//placeOrder/executePlaceOrder HTTP/1.1" 200 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//placeOrder/executePlaceOrder HTTP/1.1" 200 42
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): connectuat.adityabirlamoney.com:443
+DEBUG:urllib3.connectionpool:https://connectuat.adityabirlamoney.com:443 "POST /rest/ABMLAPIService/api//ScripDetails/getScripQuoteDetails HTTP/1.1" 200 629
+INFO:root:Access token uzCpguFdtWQR5mLTOXW6fAtVVJNicQU3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "GET /quote/ltp?i=NSE%3ANIFTY+BANK HTTP/1.1" 403 None
+INFO:root:Access token uzCpguFdtWQR5mLTOXW6fAtVVJNicQU3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "GET /quote/ltp?i=NSE%3ANIFTY+BANK HTTP/1.1" 403 None
+INFO:root:Access token uzCpguFdtWQR5mLTOXW6fAtVVJNicQU3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "GET /quote/ltp?i=NSE%3ANIFTY+BANK HTTP/1.1" 403 None
+INFO:root:Access token uzCpguFdtWQR5mLTOXW6fAtVVJNicQU3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "GET /quote/ltp?i=NSE%3ANIFTY+BANK HTTP/1.1" 403 None
+INFO:root:Access token uzCpguFdtWQR5mLTOXW6fAtVVJNicQU3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "GET /quote/ltp?i=NSE%3ANIFTY+BANK HTTP/1.1" 403 None
+INFO:root:Access token cL4A1KWF8PYScToK3xIBLEq1E9kl1hHA
+INFO:root:Access token cL4A1KWF8PYScToK3xIBLEq1E9kl1hHA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "POST /orders/regular HTTP/1.1" 400 466
+INFO:root:Access token cL4A1KWF8PYScToK3xIBLEq1E9kl1hHA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "POST /orders/regular HTTP/1.1" 400 288
+INFO:root:Access token cL4A1KWF8PYScToK3xIBLEq1E9kl1hHA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "POST /orders/regular HTTP/1.1" 200 None
+INFO:root:Access token cL4A1KWF8PYScToK3xIBLEq1E9kl1hHA
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.kite.trade:443
+DEBUG:urllib3.connectionpool:https://api.kite.trade:443 "POST /orders/regular HTTP/1.1" 200 None

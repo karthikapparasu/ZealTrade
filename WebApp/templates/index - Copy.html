@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="../Assets/css/index.css">
+	</head>
+	<body>
+        <form class="grid" action="/generatetoken" method="POST">
+         {% if generatetoken %}
+              <h3 style="color: blue;" class="let_space">Token Generated : {{generatetoken}}, Successfully!!</h3>
+          {% endif %}
+          <label for="name">Generate Access Token:</label>
+          <input class="file_submit" type="Submit">
+        </form>
+
+          <form class="grid" action="/yield" method="POST">
+         {% if result %}
+              <h3 style="color: blue;" class="let_space">{{result}}</h3>
+          {% endif %}
+          <label for="name">Trigger Statergy : </label>
+          <input class="file_submit" type="Submit">
+        </form>
+
+
+
+
+
+
+        <br>
+        <br>
+        <br>
+
+
+    </body>
+
+</html>
